@@ -1,5 +1,8 @@
 CMCS Claim Management System
-Student Number: ST10337861 Module: PROG6212 – Programming 3B Lecturer: [Your Lecturer’s Name] Submission Date: [Insert Date]
+Student Number: ST10337861 Module: PROG6212 – Programming 3B Lecturer: Amber Brial Submission Date: 21 November
+
+From my lecturers feed back from part 2 it was difficult to find the repo and the code didnt work properly when it was run, i have fixed all these issues as i submited my repo link on arc aswell as published a new repo with the final project into the prog6212 repo making it easier to find.
+
 
 Project Overview
 This is a fully functional Claim Management & Compensation System (CMCS) built with ASP.NET Core MVC (.NET 8) for lecturers, programme coordinators, and academic managers.
